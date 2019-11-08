@@ -1,0 +1,13 @@
+body {
+    /*display: grid;*/
+    margin: auto;
+}
+nav {
+    display: grid;
+    grid-template-columns: 200px repeat(6, auto);
+}
+
+footer {
+    display: grid;
+    grid-template-columns: auto auto: 
+}
