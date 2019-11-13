@@ -8,10 +8,22 @@
 
 .footeru {
     background-color: #0091A3;
+    color: rgb(255,255,255,0.75)
 }
-
+.footeru h4 {
+    text-align: center;
+    color: rgb(255,255,255,0.9);
+}
+.footeru li {
+    list-style: none;
+}
 .footerd {
     background-color: #00707e;
+    color: rgb(255,255,255,0.9);
+    text-align: center;
+}
+.footerd p {
+    margin: 1rem;
 }
 
 .poiretone  {
