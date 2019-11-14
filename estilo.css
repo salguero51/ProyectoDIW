@@ -6,9 +6,21 @@
     background-color: #0091A3 !important;
 }
 
+.footerup {
+    background-color: #0091A3;
+    color: rgb(255,255,255,0.9);
+}
+
+.footerdown {
+    background-color: #00707e;
+    color: rgb(255,255,255,0.9);
+}
+ 
+
 .footeru {
     background-color: #0091A3;
-    color: rgb(255,255,255,0.75)
+    color: rgb(255,255,255,0.75);
+    padding: 15px;
 }
 .footeru h4 {
     text-align: center;
@@ -16,6 +28,10 @@
 }
 .footeru li {
     list-style: none;
+}
+.footeru span {
+    display: table;
+    margin: 0 auto;        
 }
 .footerd {
     background-color: #00707e;
@@ -26,7 +42,18 @@
     margin: 1rem;
 }
 
+.cortel {
+    color: rgb(255,255,255,0.75);
+}
+.cortel:hover {
+    color: rgb(255,255,255,0.9);
+}
+
+
 .poiretone  {
     /*font-family: 'Poiret One', cursive;*/
     font-family: 'Monserrat', sans-serif;
+}
+.fullcarro {
+    padding: 0px
 }
