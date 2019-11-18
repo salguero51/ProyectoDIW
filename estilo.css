@@ -49,6 +49,15 @@
     color: rgb(255,255,255,0.9);
 }
 
+.citaprevia {
+    background-image: url(img/citaPrevia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100%; 
+    position: relative;
+    
+}
 
 .poiretone  {
     /*font-family: 'Poiret One', cursive;*/
@@ -57,3 +66,10 @@
 .fullcarro {
     padding: 0px
 }
+
+ /* Adaptar tamaño imagen a tarjetas *
+.card-img-top {
+    width: 100%;
+    height: 35vh;
+    object-fit: cover;
+    }
