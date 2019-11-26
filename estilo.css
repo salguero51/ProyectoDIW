@@ -1,27 +1,31 @@
 @import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
-
+/*Cambiar color de fondo*/
+.container-fluid{
+    background-color: #00A9BD;
+}
+/*Color de fondo cabecera*/
 .bg-dark1 {
     background-color: #0091A3 !important;
 }
-
+/*Color de fondo footer superior*/
 .footerup {
     background-color: #0091A3;
     color: rgb(255,255,255,0.9);
 }
-
+/*Color de fondo footer inferior*/
 .footerdown {
     background-color: #00707e;
     color: rgb(255,255,255,0.9);
 }
  
 
-.footeru {
+/* .footeru {
     background-color: #0091A3;
     color: rgb(255,255,255,0.75);
     padding: 15px;
-}
+} */
 .footeru h4 {
     text-align: center;
     color: rgb(255,255,255,0.9);
@@ -66,6 +70,22 @@
 .fullcarro {
     padding: 0px
 }
+
+.row{
+    padding: 10px;
+}
+/*poner comentarios en tamaño correcto*/
+.img-thumbnail, .rounded-circle{
+    width: 200px;
+    height: 200px;
+  }
+  .col h2, .col h3{
+    font-size: 2em;
+  }
+  .col p{
+    font-size: 1em;
+    text-align: justify;
+  }
 
  /* Adaptar tamaño imagen a tarjetas *
 .card-img-top {
