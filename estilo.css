@@ -76,14 +76,14 @@
 }
 /*poner comentarios en tamaño correcto*/
 .img-thumbnail, .rounded-circle{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
   }
   .col h2, .col h3{
-    font-size: 2em;
+    font-size: 30px;
   }
   .col p{
-    font-size: 1em;
+    font-size: 18px;
     text-align: justify;
   }
 
