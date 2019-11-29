@@ -1,0 +1,160 @@
+https://lingtalfi.com/bootstrap4-color-generator
+
+
+/*------------------------------------
+- COLOR lifepet
+------------------------------------*/
+
+$lifepet_t1: #00707e;
+$lifepet_t2: #ffffffffffffffff424b;
+$lifepet_t3: #1de5ff;
+$lifepet_t4: #36e8ff;
+$lifepet_t5: #000303;
+$lifepet_t6: #00353b;
+$lifepet_t7: #00505a;
+$lifepet_t8: #000000;
+$lifepet_t9: #4bebff;
+
+$lifepet_shadow: rgba(0, 112, 126, 0.5);
+$lifepet_text_color_dark_bright: #fff;
+
+
+.alert-lifepet {
+  color: $lifepet_t5;
+  background-color: $lifepet_t9;
+  border-color: $lifepet_t4;
+}
+
+.alert-lifepet hr {
+  border-top-color: $lifepet_t3;
+}
+
+.alert-lifepet .alert-link {
+  color: $lifepet_t8;
+}
+
+.badge-lifepet {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t1;
+}
+
+.badge-lifepet[href]:hover, .badge-lifepet[href]:focus {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t2;
+}
+
+.bg-lifepet {
+  background-color: $lifepet_t1 !important;
+}
+
+a.bg-lifepet:hover, a.bg-lifepet:focus,
+button.bg-lifepet:hover,
+button.bg-lifepet:focus {
+  background-color: $lifepet_t2 !important;
+}
+
+.border-lifepet {
+  border-color: $lifepet_t1 !important;
+}
+
+.btn-lifepet {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t1;
+  border-color: $lifepet_t1;
+}
+
+.btn-lifepet:hover {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t7;
+  border-color: $lifepet_t2;
+}
+
+.btn-lifepet:focus, .btn-lifepet.focus {
+  box-shadow: 0 0 0 0.2rem $lifepet_shadow;
+}
+
+.btn-lifepet.disabled, .btn-lifepet:disabled {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t1;
+  border-color: $lifepet_t1;
+}
+
+.btn-lifepet:not(:disabled):not(.disabled):active, .btn-lifepet:not(:disabled):not(.disabled).active, .show > .btn-lifepet.dropdown-toggle {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t2;
+  border-color: $lifepet_t6;
+}
+
+.btn-lifepet:not(:disabled):not(.disabled):active:focus, .btn-lifepet:not(:disabled):not(.disabled).active:focus, .show > .btn-lifepet.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem $lifepet_shadow;
+}
+
+.btn-outline-lifepet {
+  color: $lifepet_t1;
+  background-color: transparent;
+  border-color: $lifepet_t1;
+}
+
+.btn-outline-lifepet:hover {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t1;
+  border-color: $lifepet_t1;
+}
+
+.btn-outline-lifepet:focus, .btn-outline-lifepet.focus {
+  box-shadow: 0 0 0 0.2rem $lifepet_shadow;
+}
+
+.btn-outline-lifepet.disabled, .btn-outline-lifepet:disabled {
+  color: $lifepet_t1;
+  background-color: transparent;
+}
+
+.btn-outline-lifepet:not(:disabled):not(.disabled):active, .btn-outline-lifepet:not(:disabled):not(.disabled).active, .show > .btn-outline-lifepet.dropdown-toggle {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t1;
+  border-color: $lifepet_t1;
+}
+
+.btn-outline-lifepet:not(:disabled):not(.disabled):active:focus, .btn-outline-lifepet:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-lifepet.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem $lifepet_shadow;
+}
+
+.list-group-item-lifepet {
+  color: $lifepet_t5;
+  background-color: $lifepet_t4;
+}
+
+.list-group-item-lifepet.list-group-item-action:hover, .list-group-item-lifepet.list-group-item-action:focus {
+  color: $lifepet_t5;
+  background-color: $lifepet_t3;
+}
+
+.list-group-item-lifepet.list-group-item-action.active {
+  color: $lifepet_text_color_dark_bright;
+  background-color: $lifepet_t5;
+  border-color: $lifepet_t5;
+}
+
+.table-lifepet,
+.table-lifepet > th,
+.table-lifepet > td {
+  background-color: $lifepet_t4;
+}
+
+.table-hover .table-lifepet:hover {
+  background-color: $lifepet_t3;
+}
+
+.table-hover .table-lifepet:hover > td,
+.table-hover .table-lifepet:hover > th {
+  background-color: $lifepet_t3;
+}
+
+.text-lifepet {
+  color: $lifepet_t1 !important;
+}
+
+a.text-lifepet:hover, a.text-lifepet:focus {
+  color: $lifepet_t2 !important;
+}

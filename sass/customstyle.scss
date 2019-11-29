@@ -1,0 +1,21 @@
+@import "color.scss";
+
+
+/*Cambiar color de fondo*/
+.container-fluid{
+    background-color: #00A9BD;
+}
+/*Color de fondo cabecera*/
+.bg-dark1 {
+    background-color: #0091A3 !important;
+}
+/*Color de fondo footer superior*/
+.footerup {
+    background-color: #0091A3;
+    color: rgb(255,255,255,0.9);
+}
+/*Color de fondo footer inferior*/
+.footerdown {
+    background-color: #00707e;
+    color: rgb(255,255,255,0.9);
+}
