@@ -1,6 +1,6 @@
 # Proyecto DIW
 
-## Los requerimientos básicos son los siguientes:
+### Los requerimientos básicos son los siguientes:
 
 - Debemos realizar un prototipo inicial del sitio, utilizando cualquiera de las herramientas vistas en clase.  Debe contener un mapa de navegación y cada tipo de página se debe mostrar en versión escritorio, Tablet y móvil.
 - Debemos realizar una guía de estilo del sitio.
@@ -16,7 +16,7 @@ también las características del producto, precio, medidas, propiedades, valora
 - El sitio debe incluir un formulario todo lo completo que sea posible, donde se reflejen los conocimientos adquiridos tanto a nivel de diseño como de usabilidad y accesibilidad
 - El sitio debe incluir algún ejemplo de animación.
 
-## Elementos del sitio que deben estar acabadosantes del  17/12/19, momento en el que empezarán las correcciones, que serán públicas a partir del día 17:
+### Elementos del sitio que deben estar acabados antes del  17/12/19, momento en el que empezarán las correcciones, que serán públicas a partir del día 17:
 
 - Página inicial y al menos dos páginas masdeben estar perfectamente maquetadas, su comportamiento con distintos tamaños debe ser perfecto, y debe tener tres visiones distintas en función del tamaño del dispositivo, incluso como verse al rotar los dispositivos que tengan esa posibilidad.
 - En el sitio debe haber una muestra de maquetación con bootstrap, otra con grid y otra con flex.
