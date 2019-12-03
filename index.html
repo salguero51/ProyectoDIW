@@ -8,20 +8,13 @@
   <title>Life Pet - Inicio</title>
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap" rel="stylesheet">
-  <!-- Bootstrap CDN -->
-  <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="css/bootstrap.css">
-  <!-- CUSTOM CSS -->
-  <!-- <link rel="stylesheet" href="estilo.css"> -->
-  <link rel="stylesheet" href="css/customstyle.css">
-  <!-- <link rel="stylesheet" href="sticky-footer-navbar.css"> -->
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/custom.css">
 </head>
 
-<body class="poiretone">
+<body>
   <!-- Barra Navegación -->
-  <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand poiretone" href="#">
       <img src="img/brand2.png" width="30" height="30" class="d-inline-block align-top">
       Life Pet
@@ -46,7 +39,7 @@
   </nav>
   <!-- *** START MAIN *** -->
   <!-- Contenedor carrousel-->
-  <div class="container-fluid fullcarro">
+  <div class="container-fluid container-carousel">
     <div id="carousel1" class="carousel slide carousel-fade" data-ride="carousel">
       <!-- Carrusel -->
       <ol class="carousel-indicators">
@@ -92,19 +85,19 @@
   <!-- añadimos comentarios -->
   <div class="container-fluid">
     <div class="row">
-      <div class="col">
+      <div class="col text-center comentarios">
         <img class="rounded-circle img-thumbnail" src="img/comentario.jpg" alt="comentario1">
         <h2>Trato excepcional.</h2>
         <h3><img src="img/estrellas.png" alt="estrellas" width="100"></h3>
         <p>Me trataron perfectamente desde el primer momento. Y a mi perrito le dieron la mejor atención posible. Estoy muy agradecida.</p>
       </div>
-      <div class="col">
+      <div class="col text-center comentarios">
         <img class="rounded-circle img-thumbnail" src="img/comentario2.jpg" alt="comentario2">
         <h2>Profesionales.</h2>
         <h3><img src="img/estrellas.png" alt="estrellas" width="100"></h3>
         <p>Nos encontramos un Fox Terrier Macho andando solo y en medio de una rotonda conseguí cogerlo. Lo llevé a la Clínica Life Pet, donde muy amablemente le leyeron el microchip y localizaron a su propietario, por lo que pudimos devolverlo a su casa.</p>
       </div>
-      <div class="col">
+      <div class="col text-center comentarios">
         <img class="rounded-circle img-thumbnail" src="img/comentario3.jpg" alt="comentario3">
         <h2>Gran servicio de guardería.</h2>
         <h3><img src="img/estrellas.png" alt="estrellas" width="100"></h3>
@@ -114,9 +107,9 @@
   </div>
   <!-- *** END MAIN *** -->
   <!-- Footer -->
-  <footer class="footer">
+  <footer class="footer text-white">
     <!-- FLEX -->
-    <div class="d-md-flex flex-row justify-content-around footerup">
+    <div class="d-md-flex flex-row justify-content-around bg-secondary">
       <!-- Flex responsivo, 1fila/2col, justificado entremedias, estilo 1 //-->
       <div class="p-3">
         <h4 class="p-2 text-center">¿Dónde estamos?</h4>
@@ -131,47 +124,13 @@
         <p>Urgencias 24h.</p>
       </div>
     </div>
-    <div class="d-flex flex-row justify-content-center footerdown">
+    <div class="d-flex flex-row justify-content-center bg-tertiary">
       <!-- Flex, fila, centrado, estilo 2-->
-      <div class="d-inline-flex ">
-        <p>Empresa SL (C) Copyright Lorem 2019</p>
+      <div class="d-inline-flex">
+        <p>Life Pet (C) Copyright 2019</p>
       </div>
     </div>
-    </div>
-
-    <!--
-
-      ///
-          FOOTER ANTERIOR, CAMBIADO A BOOTSTRAP FLEX ///
-      ///
-
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-6 footeru">
-                    <span>
-                      <h4>¿Dónde estamos?</h4>
-                      Av. Perdida s/n 11500 <br>
-                      Teléfono: <a class="cortel" href="tel:+34900900900">900 900 900</a> <br>
-                      Email:  <a class="cortel" href="mailto:info@lifepet.com">info@lifepet.com</a>
-                     
-                    </span>
-                </div>
-                <div class="col-md-6 footeru">
-                    <span>
-                        <h4>Horarios</h4>
-                        De Lunes a Viernes: 9:30 - 20:30 <br>
-                        Sábados: 10:00 - 13:30  <br>
-                        Urgencias 24h.
-                    </span>
-                </div>
-            </div>
-            <div class="row">
-                    <div class="col-12 footerd">
-                        <p>Empresa SL (C) Copyright Lorem 2019</p>
-                    </div>
-            </div>
-        </div>-->
-
+  </div>
   </footer>
   <!-- Scripts -->
   <!-- Optional JavaScript -->
