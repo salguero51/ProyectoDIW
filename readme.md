@@ -25,6 +25,7 @@ también las características del producto, precio, medidas, propiedades, valora
 - El sitio debe incluir un formulario todo lo completo que sea posible, donde se reflejen los conocimientos adquiridos tanto a nivel de diseño como de usabilidad y accesibilidad
 - El sitio debe incluir algún ejemplo de animación realizada por vosotros utilizando las herramientas de css3.
 - Debe también incluir algún ejemplo del uso de sprite, ojo no sprite para animaciones  sino para ahorro de transferencias entre cliente y servidor.
-- Todos los enlaces que están previstos para el sitio deben estar activos y los que no esténrealizados que ponga “En construcción”
-- En el sitio debe haber un ejemplo de todos los recursos vistos en SASS.En el sitio debe haber muestras de varios componentes de bootstrap.
+- Todos los enlaces que están previstos para el sitio deben estar activos y los que no estén realizados que ponga “En construcción”
+- En el sitio debe haber un ejemplo de todos los recursos vistos en SASS.
+- En el sitio debe haber muestras de varios componentes de bootstrap.
 - Por último, el diseño del sitio debe de gustarme, ya que yo seré vuestro cliente en potencia.
