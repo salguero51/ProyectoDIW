@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.comentarios img {
+  width: 50%;
+}
+
 .container-carousel {
   padding: 0px !important;
 }

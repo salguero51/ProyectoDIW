@@ -1,21 +1,12 @@
-
-
-
 // COLORES
 
-$colorPrincipal : #0091A3;
-$colorSecundario : #00A9BD; 
-$colorTerciario : #00707e;
-
-$theme-colors: (
-  "primary": $colorPrincipal,
-  "secondary": $colorSecundario,
-  "tertiary": $colorTerciario
-);
+@import "color.scss";
 
 // Elementos
 
+@import "comentarios.scss";
 @import "carousel.scss";
+
 
 // Importar Bootstrap
 
