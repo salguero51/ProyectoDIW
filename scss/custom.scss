@@ -2,10 +2,21 @@
 
 @import "color.scss";
 
+// TIPOGRAFIAS
+
+@import "fonts.scss";
+
 // Elementos
 
-@import "comentarios.scss";
+@import "header.scss";
+
 @import "carousel.scss";
+
+@import "comentarios.scss";
+
+@import "servicios.scss";
+
+@import "footer.scss";
 
 
 // Importar Bootstrap

@@ -1,0 +1,15 @@
+
+
+.cortel {
+    color: rgba(255,255,255,0.8);
+    &:hover {
+        color: rgba(255,255,255,1);
+    }
+}
+
+.footer-bottom {
+    p {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+}
