@@ -21,6 +21,16 @@
   margin: 1rem;
 }
 
+.cita {
+  height: 50%;
+  width: 30%;
+  border: 1px dotted red;
+}
+.cita img {
+  position: relative;
+  width: 100%;
+}
+
 .cortel {
   color: rgba(255, 255, 255, 0.8);
 }
