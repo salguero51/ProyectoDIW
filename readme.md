@@ -29,3 +29,11 @@ también las características del producto, precio, medidas, propiedades, valora
 - En el sitio debe haber un ejemplo de todos los recursos vistos en SASS.
 - En el sitio debe haber muestras de varios componentes de bootstrap.
 - Por último, el diseño del sitio debe de gustarme, ya que yo seré vuestro cliente en potencia.
+
+
+### RELACIÓN DE ACTIVIDDES QUE DEBE INCLUIRSE EN LA APLICACIÓN DE LA CLÍNICA VETERINARIA DURANTE EL SEGNDO PARCIAL, ESTASSERÁN EVALUADAS AL FINALIZAR EL MISMO.
+- La aplicación debe cumplir las normas de usabilidad establecidas por Jacob Nielsen. (Se debe adjuntar un texto que indique donde y como se han aplicado, en este texto se incluirán todas las indicaciones de todos los requisitos).
+- En la aplicación se debe utilizar la etiqueta PICTURE con todas sus posibilidades.
+- Debe tener también alguna muestra de iconos responsivos en SVG.
+- La página principal debe tener visible y “muteado” un reproductor de audio “customizado por vosotros” al reproducirse se escuchará un audio de 15 segundos con una descripción grabada por vosotros sobre la clínica veterinaria, este audio tendrá música de fondo, de Vivaldi. Se reproducirá de forma cíclica hasta que el usuario lo detenga.
+- Debe incluir también dos vídeos con una duración máxima de dos minutos cada uno,en los que los usuarios hacen una valoración de la clínica. Será un montaje con música de fondo, distintas tomas, secuencias, efectos etc.. se valorará vuestra creatividad.
